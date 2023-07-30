@@ -1,0 +1,155 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.container{
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+      margin-top: 150px;
+      
+      
+
+}
+
+
+.login-area{
+    display: flex;
+    position:relative;
+    flex-direction: column;
+    margin: 10px;
+    left: 60px;
+    gap:20px;
+    
+    
+    
+
+}
+
+.plassword2{
+    display: flex;
+    flex-direction: column;
+    gap:1px;
+    
+
+}
+#pass{
+     height: 56px;
+     border-radius: 16px;
+     
+
+
+}
+
+.checkarea2{
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+}
+
+.placemail{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    
+
+}
+
+#placemail2{
+    height: 56px;
+    border-radius:  16px;
+    border-color: green;
+
+
+}
+.place{
+   
+   padding: 0px 10px;
+   
+   
+
+
+}
+
+.plassword{
+       display: flex;
+       flex-direction: column;
+       gap:10px;
+
+
+}
+
+.remembcheck2{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    
+    
+    
+
+
+}
+
+.remember{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+
+
+}
+
+.remember2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+
+}
+
+
+.checkarea{
+    display: flex;
+    flex-direction: row;
+    gap: 105px;
+    
+   
+
+}
+
+
+#submit2{
+    border-radius:16px;
+    height: 56px;
+    width: 400px;
+    background-color: #482D83;
+    color: white;
+
+}
+
+h4{
+    font-family: 'Sora', sans-serif;
+   line-height: 28px;
+   font-size: 16px;
+   
+   
+   
+}
+h1{
+    font-family: 'Sora', sans-serif;
+    
+}
+
+.viewer{
+  
+    height: 25px;
+    width: 25px;
+    opacity: 0.3;
+    position: relative;
+    margin-left: 270px;
+    bottom: 22px;
+
+    
+}
+
